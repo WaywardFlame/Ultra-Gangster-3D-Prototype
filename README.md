@@ -3,3 +3,5 @@ This is Ultra Gangster 3D, a 3D remake of my previous "Ultra Gangster: A Twin St
 That said, I put a lot of time into this remake, and so it is still at least worth talking about, but I will never give this a proper release. In its current form, it is essentially the original 2D game, but in 3D, and instead of being a twin stick shooter, it is now a first person shooter. All the credits to the original still apply here as well. All the levels are essentially the same, with a few minor differences.
 
 Included in this repo is a .zip file containing a build of the game for windows, if you really wish to try it out.
+
+Video link: https://youtu.be/nlpO1j5QS-0
